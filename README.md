@@ -1,2 +1,2 @@
 # NBAPlayerMap
-HTML file of NBA player birthplaces, code to be uploaded shortly
+HTML file of NBA player birthplaces, used to host web page.
